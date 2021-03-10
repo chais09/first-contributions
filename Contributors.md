@@ -10,6 +10,7 @@
 - [Tidjani Dia](https://github.com/tijani-dia)
 - [Muhammad Thabsheer](https://github.com/MThabsheer7)
 - [Samer Sawan](https://github.com/SamerSawan)
+- [Chais09](https://github.com/chais09)
 - [Shruti Katpara](https://github.com/ShrutiKatpara)
 - [Xavier Walton] (https://github.com/breezy-bodega)
 - [Andrew J Hughes] (https://github.com/penetr8-me)
